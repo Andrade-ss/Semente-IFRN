@@ -1,4 +1,56 @@
 html, body {
   height: 100%;
-  width: 100%;
+  width: 100%;  
+  background-color: #8effae;
 }
+
+.menu{
+    text-decoration-line: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 100px;
+    display: block;
+}
+
+.menu > ul > a{
+    text-decoration-line: none;
+}
+
+.Box-Apresentação{
+    background-color: #39a863;
+    width: 1841px;
+    height: 552px;
+    
+    border-top-width: 2px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    margin-top: 55px;
+    border-left-width: 1px;
+    padding-left: 0px;
+
+}
+.Box-Apresentação > h1{
+    margin-left: 5px;
+    padding-left: 300px;
+    padding-top: 100px;
+    margin-bottom: 2px;
+}
+.Box-Apresentação > h2{
+    padding-left: 305px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+texto sobre semente{
+    padding-left: 303px;
+    margin-top: 15px;
+}
+.Box-Apresentação > h1{
+    color: white;
+    width: 206px;
+    height: 40px;
+    margin: 44px;
+    margin-left: 3px;
+    margin-top: 44px;
+    padding-top: 44px;
+}
+
